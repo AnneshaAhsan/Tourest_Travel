@@ -22,7 +22,8 @@ A travel landing page design for a fictional travel agency.
 
 ## 📷 Screenshots
 
-> *(Add screenshots of landing page, packages section, and responsive layout.)*
+> *![image](https://github.com/user-attachments/assets/65838927-2092-4901-b2bc-8dc8e3cf5a1f)
+*
 
 ## 🚀 Run Locally
 
