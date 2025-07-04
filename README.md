@@ -22,8 +22,8 @@ A travel landing page design for a fictional travel agency.
 
 ## 📷 Screenshots
 
-> *![image](https://github.com/user-attachments/assets/65838927-2092-4901-b2bc-8dc8e3cf5a1f)
-*
+'![image](https://github.com/AnneshaAhsan/Tourest_Travel/blob/main/readme-images/desktop.png)'
+
 
 ## 🚀 Run Locally
 
